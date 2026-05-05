@@ -13,8 +13,35 @@ GitHub followers
 
 ## 🧑‍💻 About Me
 
-ts const mohamed = {   role      : "Full-Stack Engineer",   focus     : "Scalable systems & real-world applications",   strengths : ["System Design", "API Development", "Performance Optimization"],   stack     : ["TypeScript", "React", "Next.js", "Node.js"],   mobile    : ["React Native", "Flutter"],   cloud     : ["AWS", "Docker", "CI/CD"],   current   : "Building production-grade applications with clean architecture",   mindset   : "Think → Design → Build → Optimize", }; 
+const mohamed = {
+  role: "Full-Stack Engineer",
 
+  focus: [
+    "Designing scalable web & mobile applications",
+    "Building clean, maintainable architectures",
+    "Turning ideas into production-ready systems"
+  ],
+
+  expertise: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "Express", "REST APIs"],
+    mobile: ["React Native", "Flutter"],
+    database: ["MongoDB", "PostgreSQL"]
+  },
+
+  engineering: [
+    "System design & architecture",
+    "Authentication & security (JWT, protected routes)",
+    "Performance optimization & UX",
+    "API design & integration",
+    "CI/CD & deployment pipelines"
+  ],
+
+  currentFocus: "Building scalable, production-grade applications with real-world impact",
+
+  mindset: "Think in systems, write clean code, ship consistently 🚀"
+};
+``
 ---
 
 ## ⚙️ Engineering Focus
@@ -94,10 +121,14 @@ GitHub Streak
 
 👉 https://github.com/JooooMohamed/talent-casting-platform
 
+---
+
 ### 🧬 Building-Expenses
 > A mobile app that simplifies residential building finance management by digitizing expenses, billing, and payments while ensuring transparency for residents and full control for administrators.
 
 👉 https://github.com/JooooMohamed/Building-Expenses  
+
+---
 
 ### 🧬 TB-GOBRA
 > System-focused project exploring performance, structure, and scalability.
