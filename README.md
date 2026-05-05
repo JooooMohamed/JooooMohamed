@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Mohamed+👋;Full-Stack+Engineer+(React+%7C+Node.js);Building+scalable+apps+%26+clean+systems;Always+shipping+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Mohamed+👋;Full-Stack+Engineer+(React+%7C+Node.js);I+build+scalable+production-ready+systems;From+idea+→+architecture+→+deployment+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +13,17 @@ GitHub followers
 
 ## 🧑‍💻 About Me
 
-ts const mohamed = {   role      : "Full-Stack Engineer",   focus     : "Building scalable web & mobile applications",   stack     : ["TypeScript", "React", "Next.js", "Node.js"],   mobile    : ["React Native", "Flutter"],   cloud     : ["AWS", "Docker", "CI/CD"],   current   : "Designing production-ready systems",   mindset   : "Clean code • Performance • Real-world impact", }; 
+ts const mohamed = {   role      : "Full-Stack Engineer",   focus     : "Scalable systems & real-world applications",   strengths : ["System Design", "API Development", "Performance Optimization"],   stack     : ["TypeScript", "React", "Next.js", "Node.js"],   mobile    : ["React Native", "Flutter"],   cloud     : ["AWS", "Docker", "CI/CD"],   current   : "Building production-grade applications with clean architecture",   mindset   : "Think → Design → Build → Optimize", }; 
+
+---
+
+## ⚙️ Engineering Focus
+
+- 🏗️ Designing scalable architectures (client-server, APIs, state management)  
+- 🔐 Implementing secure authentication (JWT, protected routes)  
+- ⚡ Optimizing performance & user experience  
+- ☁️ Deploying apps with CI/CD pipelines  
+- 📦 Writing maintainable, modular, production-ready code  
 
 ---
 
@@ -40,7 +50,7 @@ MongoDB
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
 
@@ -60,54 +70,55 @@ GitHub Streak
 ## 🚀 Featured Projects
 
 ### 🏆 firsttech-hackathon-404-team-not-found
-> High-pressure hackathon project focused on rapid delivery and real-world problem solving.
+> Built under extreme time constraints with a focus on rapid delivery and problem-solving.
 
-- Full-stack architecture  
-- Team collaboration under constraints  
+- Full-stack implementation  
+- Team-based development under pressure  
+- Real-world use-case validation  
 👉 https://github.com/JooooMohamed/firsttech-hackathon-404-team-not-found  
 
 ---
 
 ### ✅ task-tracker-fullstack
-> Scalable task management system with authentication and REST API.
+> Production-style task management system with authentication and REST APIs.
 
-- JWT authentication  
-- CRUD operations  
-- Clean client-server architecture  
+- JWT authentication & protected routes  
+- Full CRUD operations  
+- Structured frontend/backend separation  
 👉 https://github.com/JooooMohamed/task-tracker-fullstack  
 
 ---
 
 ### 🧬 TB-GOBRA
-> Advanced project exploring system design and performance optimization.
+> System-focused project exploring performance, structure, and scalability.
 
 👉 https://github.com/JooooMohamed/TB-GOBRA  
 
 ---
 
 ### ⚡ Euth
-> Focused on simplicity, performance, and clean implementation.
+> Minimal, fast, and built with performance-first mindset.
 
 👉 https://github.com/JooooMohamed/Euth  
 
 ---
 
 ### 🎬 MovieSelector
-> API-driven app to simplify decision-making with a clean UI.
+> API-driven application for dynamic content selection with clean UI.
 
 👉 https://github.com/JooooMohamed/MovieSelector  
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Direction
 
-- Building production-ready full-stack systems  
-- Improving system design & scalability  
-- Exploring cloud-native architecture  
+- 📈 Advancing in system design & backend architecture  
+- ☁️ Deepening cloud & DevOps knowledge  
+- 🚀 Building high-impact, production-grade applications  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
@@ -119,6 +130,4 @@ GitHub
 
 <div align="center">
 
-"First, solve the problem. Then, write the code."
-
-</
+"Good code works. Great code scales."
