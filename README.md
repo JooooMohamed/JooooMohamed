@@ -13,7 +13,7 @@ GitHub followers
 
 ## 🧑‍💻 About Me
 
-const mohamed = {
+const Youssef = {
   role: "Full-Stack Engineer",
 
   focus: [
@@ -24,9 +24,9 @@ const mohamed = {
 
   expertise: {
     frontend: ["React", "Next.js", "TypeScript"],
-    backend: ["Node.js", "Express", "REST APIs"],
-    mobile: ["React Native", "Flutter"],
-    database: ["MongoDB", "PostgreSQL"]
+    backend: ["Node.js", "Express", "REST APIs" , ".Net Core"],
+    mobile: ["React Native"],
+    database: ["MongoDB", "SQL"]
   },
 
   engineering: [
@@ -41,7 +41,7 @@ const mohamed = {
 
   mindset: "Think in systems, write clean code, ship consistently 🚀"
 };
-``
+
 ---
 
 ## ⚙️ Engineering Focus
