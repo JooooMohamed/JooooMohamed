@@ -89,6 +89,16 @@ GitHub Streak
 
 ---
 
+### 🎭 Talent-casting-platform
+> Full-stack talent casting marketplace — NestJS API, Next.js web, React Native iOS/Android
+
+👉 https://github.com/JooooMohamed/talent-casting-platform
+
+### 🧬 Building-Expenses
+> A mobile app that simplifies residential building finance management by digitizing expenses, billing, and payments while ensuring transparency for residents and full control for administrators.
+
+👉 https://github.com/JooooMohamed/Building-Expenses  
+
 ### 🧬 TB-GOBRA
 > System-focused project exploring performance, structure, and scalability.
 
